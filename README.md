@@ -4,7 +4,7 @@ A relational database for a beauty salon that manages customers, services, emplo
 
 The project covers the full database design cycle: requirements and business rules, conceptual design (ERD), normalization up to 3NF, and implementation in MySQL with constraints and triggers.
 
-📄 **Project_CoverPaper_CS311 SEM462 (2) 2 copy.pdf**
+📄 **[Project_CoverPaper_CS311 SEM462 (2) 2 copy.pdf)**
 
 ## Business Rules
 
